@@ -1,2 +1,0 @@
-# grudenpjs
-Interview Demo
