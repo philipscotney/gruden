@@ -396,4 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-/src/GrudenSolution/Gruden/ClientApp/.angular/cache/15.1.6
+
+# Angular
+/src/GrudenSolution/Gruden/ClientApp/.angular/cache/     
+
+#Logs
+/src/GrudenSolution/Gruden/Logs/
